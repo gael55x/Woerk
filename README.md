@@ -1,2 +1,2 @@
 # Woerk
-A job application where everyone can make their meaning. 
+A job application platform where everyone can make their own meaning. 
